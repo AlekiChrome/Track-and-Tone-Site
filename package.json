@@ -2,8 +2,8 @@
   "name": "ttp",
   "version": "1.0.0",
   "description": "Track and Tone site",
-  "main": "index.js",
-  "homepage": "https://alekichrome.github.io/Track-and-Tone-Site",
+  "main": "index.html",
+  "homepage": "https://trackandtone.com",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
