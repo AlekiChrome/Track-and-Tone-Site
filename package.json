@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Track and Tone site",
   "main": "index.html",
-  "homepage": "https://github.com/AlekiChrome/Track-and-Tone-Site.git",
+  "homepage": "www.TrackandTone.com",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
