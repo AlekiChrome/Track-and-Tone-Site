@@ -95,6 +95,13 @@
 * {
   box-sizing: border-box; }
 
+  img {
+    padding: 2px;
+    margin-top: 10px;
+    height: 3rem;
+    box-sizing: border-box;
+}
+
 body {
   background: #414040;
   color: white;
@@ -168,6 +175,7 @@ main {
     grid-area: bioimage;
     margin: auto;
     border-radius: 40%;
+    height: 170px;
     border: #ff8800 3px solid; }
   .about-info .bio {
     grid-area: bio;
