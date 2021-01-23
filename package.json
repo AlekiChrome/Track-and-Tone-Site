@@ -2,7 +2,7 @@
   "name": "ttp",
   "version": "1.0.0",
   "description": "Track and Tone site",
-  "main": "index.html",
+  "master": "index.html",
   "homepage": "https://alekichrome.github.io/Track-and-Tone-Site/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
